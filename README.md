@@ -14,3 +14,4 @@ Feature
 - Delete
 - Toggle dark and light mode
 - Responsive UI
+:dolls:

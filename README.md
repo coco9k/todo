@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio of website development Todo List</h1>
 
 # Develop with
-- <img src="./icons/Ableton-Dark.svg" width="48"> html5
+- html5
 - css
 - bootstrap
 - react.js
